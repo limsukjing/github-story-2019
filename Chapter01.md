@@ -1,5 +1,9 @@
 # Chapter 1
 
+### Spotify - Boston, MA.
+
+![Spotify Logo](http://www.scdn.co/i/_global/open-graph-default.png)
+
 22/02/19 
 
 It was a precious, bright sunny day after an entire week of wintry weather. As I was walking home from college that day, I couldn’t help but notice the yellow heads of wild daffodils started to grow along the roadside. Although it may not quite feel like it yet, the sight of these daffodils has reminded me that Spring has indeed begun. 
