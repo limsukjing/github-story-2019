@@ -2,7 +2,7 @@
 
 ### Chapters
 
-- Chapter 1 - Spotify (v1.1)
+- Chapter 1 - Spotify (v1.2)
 
 ### Releases
 
