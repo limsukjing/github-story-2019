@@ -8,6 +8,7 @@
 ### Releases
 
 - [Release Version 1.0](https://github.com/limsukjing/github-story-2019/releases)
+- [Release Version 2.0](https://github.com/limsukjing/github-story-2019/releases/tag/v2.0)
 
 ### Issues
 
