@@ -1,5 +1,9 @@
 # Chapter 2
 
+### Accenture - Dublin, Ireland.
+
+![Accenture Logo](https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2018/02/Accenture-Job-Share-Thumbnail.jpg)
+
 05/03/19
 
 Tuesday 2pm. Michael was giving a lecture on common BGP issues when I noticed my phone’s screen lit up, an e-mail from Accenture! I quickly glanced through the email, and it was an update regarding my application for their Business & Technology Integration Summer Internship – I was required to complete an online assessment before I could move onto the next step.
