@@ -3,6 +3,7 @@
 ### Chapters
 
 - [Chapter 1 - Spotify](Chapter01.md)
+- Chapter 2 - Accenture (v1.0)
 
 ### Releases
 
