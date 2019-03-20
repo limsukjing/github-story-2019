@@ -4,7 +4,7 @@
 
 - [Chapter 1 - Spotify](Chapter01.md)
 - [Chapter 2 - Accenture](Chapter02.md)
-- Chapter 3 - Google (v1.1)
+- Chapter 3 - Google (v1.2)
 
 ### Releases
 
