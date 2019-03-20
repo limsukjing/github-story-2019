@@ -13,7 +13,7 @@
 
 ### Issues
 
--
+- [Issue #1 - Alternative Ending](https://github.com/limsukjing/github-story-2019/issues/1)
 
 ### Contact 
 
