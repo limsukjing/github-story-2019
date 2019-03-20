@@ -5,6 +5,7 @@
 - [Chapter 1 - Spotify](Chapter01.md)
 - [Chapter 2 - Accenture](Chapter02.md)
 - [Chapter 3 - Google](Chapter03.md)
+- [Chapter 3 - Google (Alternative Ending)](https://github.com/limsukjing/github-story-2019/blob/alternative_ending/Chapter03.md)
 
 ### Releases
 
