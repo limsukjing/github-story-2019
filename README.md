@@ -9,13 +9,14 @@
 
 ### Releases
 
-- [Release Version 1.0](https://github.com/limsukjing/github-story-2019/releases)
+- [Release Version 1.0](https://github.com/limsukjing/github-story-2019/releases/tag/v1.0)
 - [Release Version 2.0](https://github.com/limsukjing/github-story-2019/releases/tag/v2.0)
 - [Release Version 3.0](https://github.com/limsukjing/github-story-2019/releases/tag/v3.0)
 
 ### Issues
 
 - [Issue #1 - Alternative Ending](https://github.com/limsukjing/github-story-2019/issues/1)
+- [Issue #2 - Release Version](https://github.com/limsukjing/github-story-2019/issues/2)
 
 ### Contact 
 
