@@ -1,2 +1,10 @@
 # phpStorm cache file
 .idea
+
+# folder view configuration files
+.DS_Store
+Desktop.ini
+
+# thumbnail cache files
+._*
+Thumbs.db
